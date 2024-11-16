@@ -19,10 +19,16 @@ goldmoviesproject/
 1. Navigate to the `backend` folder:
    ```bash
    cd backend
-2. Run this command: mvn spring-boot:run
-3. Next, run this command: ngrok http 8080
-4. Copy and paste the generated Forwarding URL into the base URL variable located in goldmoviesproject\Frontend\movie-gold-v1\src\api\axiosConfig.js
-
+2. Run Command:
+   ```bash
+   mvn spring-boot:run
+3. Next, Run Command:
+   ```bash
+   ngrok http 8080
+4. Finally, Copy and paste the generated Forwarding URL into the base URL variable located in goldmoviesproject\Frontend\movie-gold-v1\src\api\axiosConfig.js
+   ```bash
+   Example URL: https://8bb2-207-196-181-78.ngrok-free.app
+   
 ### Frontend
 1. Navigate to the `frontend` folder:
     ```bash
