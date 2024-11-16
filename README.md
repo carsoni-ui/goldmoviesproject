@@ -4,15 +4,6 @@ A full-stack movie review application with a React frontend and a Spring Boot ba
 
 ---
 
-## Project Structure
-
-goldmoviesproject/ 
-  ├── frontend/ # React application 
-  ├── backend/ # Spring Boot application
-
-
----
-
 ## How to Run the Project
 
 ### Backend
